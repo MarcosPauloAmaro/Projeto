@@ -1,0 +1,9 @@
+yfinance
+pandas
+scikit-learn
+joblib
+fastapi
+uvicorn
+streamlit
+requests
+sqlalchemy
